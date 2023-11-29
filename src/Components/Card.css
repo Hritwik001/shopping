@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  margin: 2%;
+  flex-wrap: wrap;
+  border-radius: 5%;
+  margin-left: 222px;
+}
+
+.card {
+  width: 20%;
+  background-color: white;
+  margin: 2%;
+  border-radius: 2%;
+  border: 2px solid black;
+  height: 40%;
+}
+
+.card-image {
+  height: 100px;
+  width: 100px;
+}

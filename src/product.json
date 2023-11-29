@@ -1,0 +1,25 @@
+{
+  "mobile": [
+    {
+      "id": 1,
+      "name": "Iphone 14",
+      "price": "100000",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322",
+      "description": "IPhone Smartphone"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S23",
+      "price": "120000",
+      "image": "https://m.media-amazon.com/images/I/41xHTtB5juL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Samsung Smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Vivo V12",
+      "price": "30000",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/q/f/-original-imagtyw2vfzzwzgs.jpeg?q=70",
+      "description": "Vivo Smartphone"
+    }
+  ]
+}
